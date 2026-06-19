@@ -16,14 +16,9 @@
 
 ![Rebalance report preview](assets/report-preview.png)
 
-## What It Does
+## Overview
 
-Given:
-
-- a CSV of current positions
-- a CSV of target portfolio weights
-
-the script will:
+Given a CSV of current positions and a CSV of target portfolio weights, the script will:
 
 1. calculate current portfolio weights
 2. infer target dollar values from total portfolio value
@@ -32,7 +27,7 @@ the script will:
 5. produce a markdown rebalance report
 6. run simple concentration and turnover checks
 
-## Example Output
+## Outputs
 
 The script writes:
 
@@ -70,7 +65,7 @@ portfolio-helper-scripts/
     └── reporting.py
 ```
 
-## Why This Project Matters
+## Why It Fits The Portfolio
 
 This repo is small, but it tells a good story:
 
