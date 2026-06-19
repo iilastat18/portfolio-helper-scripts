@@ -1,0 +1,9 @@
+symbol,name,region,sector,price,shares,round_lot
+ALPH,Alpha Payments,US,Payments,126.4,4200,10
+BRVO,Bravo Software,US,Software,84.2,6100,10
+CRWN,Crown Industrials,Europe,Industrials,58.7,7300,10
+DLTA,Delta Semis,US,Semis,142.1,2800,10
+ECHO,Echo Health,Europe,Healthcare,73.5,4900,10
+FLUX,Flux Energy,Asia,Energy,49.8,5500,10
+GLDE,Glade Consumer,Europe,Consumer,66.9,3200,10
+HARB,Harbor Utilities,Asia,Utilities,41.3,6800,10
