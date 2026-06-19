@@ -12,10 +12,6 @@
   <code>markdown report</code>
 </p>
 
-## Portfolio Role
-
-This is the smallest repo in the portfolio on purpose. It shows that the portfolio is not only made of big demos, but also includes practical tools that solve a concrete task cleanly.
-
 ## Preview
 
 ![Rebalance report preview](assets/report-preview.png)
@@ -74,7 +70,7 @@ portfolio-helper-scripts/
     └── reporting.py
 ```
 
-## Why This Project Is Useful In A Portfolio
+## Why This Project Matters
 
 This repo is small, but it tells a good story:
 
@@ -88,9 +84,3 @@ This repo is small, but it tells a good story:
 - The data in this repo is synthetic.
 - The rebalance logic is intentionally lightweight and public-safe.
 - The purpose is to show execution-oriented scripting, not proprietary portfolio construction logic.
-
-## Screenshot Strategy
-
-- use the generated `rebalance_report.md` as the main README visual if you want one
-- optionally add a small snippet of `orders.csv`
-- emphasize utility and execution, not interface design
