@@ -16,6 +16,10 @@
 
 This is the smallest repo in the portfolio on purpose. It shows that the portfolio is not only made of big demos, but also includes practical tools that solve a concrete task cleanly.
 
+## Preview
+
+![Rebalance report preview](assets/report-preview.png)
+
 ## What It Does
 
 Given:
