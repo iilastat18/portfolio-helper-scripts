@@ -77,5 +77,5 @@ This repo is small, but it tells a good story:
 ## Notes
 
 - The data in this repo is synthetic.
-- The rebalance logic is intentionally lightweight and public-safe.
-- The purpose is to show execution-oriented scripting, not proprietary portfolio construction logic.
+- The rebalance logic is intentionally lightweight and easy to explain.
+- The project focuses on execution-oriented scripting and usable reporting outputs.
